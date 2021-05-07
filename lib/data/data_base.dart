@@ -1,4 +1,4 @@
-import 'package:desafio_flutter/models/item.dart';
+import 'package:challenge_flutter/models/item.dart';
 
 const DATA_BASE = {
   '1': const Item(

@@ -1,6 +1,6 @@
-import 'package:desafio_flutter/models/item.dart';
-import 'package:desafio_flutter/provider/items.dart';
-import 'package:desafio_flutter/routes/app_routes.dart';
+import 'package:challenge_flutter/models/item.dart';
+import 'package:challenge_flutter/provider/items.dart';
+import 'package:challenge_flutter/routes/app_routes.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
