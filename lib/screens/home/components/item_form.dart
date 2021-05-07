@@ -1,6 +1,6 @@
-import 'package:desafio_flutter/constants.dart';
-import 'package:desafio_flutter/models/item.dart';
-import 'package:desafio_flutter/provider/items.dart';
+import 'package:challenge_flutter/constants.dart';
+import 'package:challenge_flutter/models/item.dart';
+import 'package:challenge_flutter/provider/items.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

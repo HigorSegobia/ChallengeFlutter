@@ -1,8 +1,8 @@
-import 'package:desafio_flutter/provider/items.dart';
-import 'package:desafio_flutter/routes/app_routes.dart';
-import 'package:desafio_flutter/screens/home/components/item_form.dart';
-import 'package:desafio_flutter/screens/login/login_screen.dart';
-import 'package:desafio_flutter/screens/splashscreen/splashscreen.dart';
+import 'package:challenge_flutter/provider/items.dart';
+import 'package:challenge_flutter/routes/app_routes.dart';
+import 'package:challenge_flutter/screens/home/components/item_form.dart';
+import 'package:challenge_flutter/screens/login/login_screen.dart';
+import 'package:challenge_flutter/screens/splashscreen/splashscreen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

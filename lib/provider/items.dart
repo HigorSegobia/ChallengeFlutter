@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:desafio_flutter/data/data_base.dart';
-import 'package:desafio_flutter/models/item.dart';
+import 'package:challenge_flutter/data/data_base.dart';
+import 'package:challenge_flutter/models/item.dart';
 import 'package:flutter/cupertino.dart';
 
 class Items with ChangeNotifier {

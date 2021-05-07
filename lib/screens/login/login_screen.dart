@@ -1,6 +1,6 @@
-import 'package:desafio_flutter/constants.dart';
-import 'package:desafio_flutter/screens/home/home.dart';
-import 'package:desafio_flutter/screens/login/components/text_field.dart';
+import 'package:challenge_flutter/constants.dart';
+import 'package:challenge_flutter/screens/home/home.dart';
+import 'package:challenge_flutter/screens/login/components/text_field.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 

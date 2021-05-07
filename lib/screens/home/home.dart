@@ -1,8 +1,7 @@
-import 'package:desafio_flutter/constants.dart';
-import 'package:desafio_flutter/models/item.dart';
-import 'package:desafio_flutter/provider/items.dart';
-import 'package:desafio_flutter/routes/app_routes.dart';
-import 'package:desafio_flutter/screens/home/components/list_tile.dart';
+import 'package:challenge_flutter/constants.dart';
+import 'package:challenge_flutter/provider/items.dart';
+import 'package:challenge_flutter/routes/app_routes.dart';
+import 'package:challenge_flutter/screens/home/components/list_tile.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
