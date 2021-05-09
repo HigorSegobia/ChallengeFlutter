@@ -4,11 +4,6 @@
 <img src="https://img.shields.io/static/v1?label=Flutter&message=2.0.5&color=7159c1&style=for-the-badge&logo=ghost"/>
 <img src="https://img.shields.io/static/v1?label=Dart&message=2.7.0&color=7159c1&style=for-the-badge&logo=ghost"/>
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Instalação</a> • 
- <a href="#tecnologias">Observações</a> 
-</p>
 
 ### Features
 
