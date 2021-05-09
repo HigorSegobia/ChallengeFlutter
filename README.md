@@ -32,6 +32,9 @@ $ flutter pub get
 # Execute a aplicação em modo de desenvolvimento
 $ flutter run
 
+# Login e senha da aplicação
+$ Login: admin Senha: 123456
+
 ```
 
 ### 🛠 Packages
